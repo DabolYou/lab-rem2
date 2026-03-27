@@ -1,1 +1,2 @@
 This is the first version of info
+Added new info from the cloned repo
